@@ -10,8 +10,8 @@ This is a collection of best practices of [Frannca's](https://github.com/Frannca
 ## Motivation
 
 There are so many great **Open Source** projects that is helping our company to grow that would be fair to start to 
-share some projects as well. Moreover, this year we decided to start to Open Source some of our projects on **GitHub**. 
-Starting with our [website](http://frannca.com) and now by creating some **Angular** libraries. Check it out: 
+share some projects as well. This year we decided to start to Open Source some of our projects on **GitHub**. 
+Starting with our [website](http://frannca.com) and now by creating some **Angular** libraries. See our 
 [Projects](#projects).
 
 
