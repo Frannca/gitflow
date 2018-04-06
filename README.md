@@ -5,7 +5,7 @@ This is a collection of best practices of [Frannca's](https://github.com/Frannca
 ## Table of Contents
 
 - [Motivation](#motivation)
-- [First Steps](#firststeps)
+- [First Steps](#first-steps)
 
 ## Motivation
 
@@ -17,7 +17,7 @@ Starting with our [website](http://frannca.com) and now by creating some **Angul
 
 ## First Steps
 
-1. [Commit Message Guidelines](#commitmessageguidelines)
+1. [Commit Message Guidelines](#commit-message-guidelines)
 
 ### Commit Message Guidelines
 
