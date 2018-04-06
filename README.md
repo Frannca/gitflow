@@ -17,7 +17,26 @@ Starting with our [website](http://frannca.com) and now by creating some **Angul
 
 ## First Steps
 
-1. Commit Message Guidelines
+1. [Commit Message Guidelines](#commitmessageguidelines)
+
+### Commit Message Guidelines
 
 We use the [Angular Commit Message Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits) 
 and to follow this guidelines, there is a great CLI wizard: [Commitizen](https://github.com/commitizen/cz-cli).
+
+**Commitizen installation**
+
+```
+npm install -g commitizen
+```
+
+**Making the repository Commitizen-friendly**
+
+```
+commitizen init cz-conventional-changelog --save-dev --save-exact
+```
+
+If the project does not has the `package.json` file, the Commitizen CLI can not be installed. Create the file by 
+running `npm init`.
+
+For more detailed information, check the Commitizen repository.
