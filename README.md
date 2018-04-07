@@ -7,6 +7,7 @@ GitHub.
 
 - [Motivation](#motivation)
 - [First Steps](#first-steps)
+- [README Template](#readme-template)
 
 ## Motivation
 
@@ -63,3 +64,20 @@ guidelines to anyone that wants to report bugs and create pull request.
   - We always use the MIT License in all the projects on GitHub.
 - **Issues or pull request templates**
   - Create this files save time and creates a standard to anyone that wants to open an issue or create a pull request.
+
+## README Template
+
+This template was inspired by many README files on [Awesome README](https://github.com/matiassingers/awesome-readme). 
+Check the [README-template](README-template.md) and make a copy of it when starting a new project.
+
+The main sections are:
+
+- Introduction
+- Table of Contents
+- Requirements
+- Installation
+- Usage
+- Configuration
+- Testing
+- Contributing
+- Copyright and license
