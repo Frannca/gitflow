@@ -8,6 +8,7 @@ GitHub.
 - [Motivation](#motivation)
 - [First Steps](#first-steps)
 - [README Template](#readme-template)
+- [CONTRIBUTING Template](#contributing-template)
 
 ## Motivation
 
@@ -81,3 +82,8 @@ The main sections are:
 - Testing
 - Contributing
 - Copyright and license
+
+## CONTRIBUTING Template
+
+This template was inspired by [contributing-template](https://github.com/nayafia/contributing-template). Check the  
+[CONTRIBUTING-template](CONTRIBUTING-template.md) and make a copy of it in your project.
