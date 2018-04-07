@@ -48,28 +48,19 @@ For more detailed information, check the Commitizen repository.
 The GitHub has a checklist with some important things that your project must have. It is important to follow this 
 standards to reach out a good quality project, and to helo others to help you by submitting pull requests.
 
-**Description**
-
-Add a description for your project, it is very important because of this description the people can find your project 
+- **Description**
+  - Add a description for your project, it is very important because of this description the people can find your project 
 easily.
-
-**README**
-
-The first thing that anyone sees when enters your project is the README. It is very important to create a good README. 
+- **README**
+  - The first thing that anyone sees when enters your project is the README. It is very important to create a good README. 
 We are going to see more details in the next topics. 
-
-**Code of conduct**
-
-GitHub provides two templates, but we mainly use the first one: Contributor Covenant.
-
-**Contributing**
-
-If you want to people to contribute to your project, you must have a contributing file. This file contains the 
+- **Code of conduct**
+  - GitHub provides two templates, but we mainly use the first one: Contributor Covenant.
+- **Contributing**
+  - If you want to people to contribute to your project, you must have a contributing file. This file contains the 
 guidelines to anyone that wants to report bugs and create pull request.
-
-**Licence**
-
-We always use the MIT License in all the projects on GitHub.
+- **Licence**
+  - We always use the MIT License in all the projects on GitHub.
 
 **Issues or pull request templates**
 
