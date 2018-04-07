@@ -61,7 +61,5 @@ We are going to see more details in the next topics.
 guidelines to anyone that wants to report bugs and create pull request.
 - **Licence**
   - We always use the MIT License in all the projects on GitHub.
-
-**Issues or pull request templates**
-
-Create this files save time and creates a standard to anyone that wants to open an issue or create a pull request.
+- **Issues or pull request templates**
+  - Create this files save time and creates a standard to anyone that wants to open an issue or create a pull request.
