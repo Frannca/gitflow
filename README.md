@@ -85,5 +85,6 @@ The main sections are:
 
 ## CONTRIBUTING Template
 
-This template was inspired by [contributing-template](https://github.com/nayafia/contributing-template). Check the 
-[CONTRIBUTING-template](CONTRIBUTING-template.md) and make a copy of it in your project.
+This template was created by [contributing-template](https://github.com/nayafia/contributing-template). Check the 
+[CONTRIBUTING-template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) and make 
+a copy of it in your project.
